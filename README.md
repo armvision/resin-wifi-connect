@@ -1,5 +1,4 @@
-WiFi Connect
-============
+<h1 align="center"><img width="460" src="https://github.com/resin-io/resin-wifi-connect/raw/147-logo/docs/images/wifi-connect.png" /></h1>
 
 > Easy WiFi setup for Linux devices from your mobile phone or laptop
 
@@ -21,7 +20,7 @@ WiFi Connect is a utility for dynamically setting the WiFi configuration on a Li
 [DOWNLOAD]: https://github.com/resin-io/resin-wifi-connect/releases/latest
 [MILESTONES]: https://github.com/resin-io/resin-wifi-connect/milestones
 
-![How it works](./docs/images/how-it-works.png?raw=true)
+![How it works](./docs/images/how-it-works.jpg?raw=true)
 
 How it works
 ------------
